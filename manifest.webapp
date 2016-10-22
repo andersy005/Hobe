@@ -1,0 +1,22 @@
+{
+  "version": "1.0.0",
+  "name": "Hobe Chat",
+  "launch_path": "/index.html",
+  "description": "Chat with friends using Firebase 2.0",
+  "developer": {
+    "name": "Anderson B.",
+    "url": "https://andersy005.github.io"
+  },
+  "installs_allowed_from": [
+    "*"
+  ],
+  "default_locale": "en",
+  "permissions": {
+  },
+  "locales": {
+    "en": {
+      "name": "Hobe Chat",
+      "description": "Chat with friends using Firebase 2.0"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Hobe Chat",
+  "short_name": "Hobe Chat",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "orientation": "portrait"
+}
