@@ -1,0 +1,14 @@
+[debug] ----------------------------------------------------------------------
+[debug] Command:      C:\Program Files\nodejs\node.exe C:\Users\qubit\c\Program\node_modules\firebase-tools\bin\firebase serve
+[debug] CLI Version:  3.0.8
+[debug] Platform:     win32
+[debug] Node Version: v5.10.1
+[debug] Time:         Fri Oct 21 2016 23:53:06 GMT-0500 (Central Daylight Time)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[info] Starting Firebase development server...
+[info] 
+[info] Project Directory: D:\GitHub-Projects\FireBase\Hobe
+[info] Public Directory: ./
+[info] 
+[info] Server listening at: http://localhost:5000
